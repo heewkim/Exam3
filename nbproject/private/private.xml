@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Kim/Documents/NetBeansProjects/PlayersApp/src/java/controller/Addform.java</file>
+            <file>file:/C:/Users/Kim/Documents/NetBeansProjects/PlayersApp/src/java/dbHelper/SearchQuery.java</file>
+            <file>file:/C:/Users/Kim/Documents/NetBeansProjects/PlayersApp/web/includes/header.jsp</file>
+            <file>file:/C:/Users/Kim/Documents/NetBeansProjects/PlayersApp/web/includes/menu.jsp</file>
+            <file>file:/C:/Users/Kim/Documents/NetBeansProjects/PlayersApp/src/java/controller/Read.java</file>
+            <file>file:/C:/Users/Kim/Documents/NetBeansProjects/PlayersApp/src/java/dbHelper/ReadRecord.java</file>
+            <file>file:/C:/Users/Kim/Documents/NetBeansProjects/PlayersApp/web/includes/footer.jsp</file>
+            <file>file:/C:/Users/Kim/Documents/NetBeansProjects/PlayersApp/src/java/model/Players.java</file>
+            <file>file:/C:/Users/Kim/Documents/NetBeansProjects/PlayersApp/src/java/dbHelper/ReadQuery.java</file>
+            <file>file:/C:/Users/Kim/Documents/NetBeansProjects/PlayersApp/web/search.jsp</file>
+            <file>file:/C:/Users/Kim/Documents/NetBeansProjects/PlayersApp/src/java/dbHelper/UpdateQuery.java</file>
+            <file>file:/C:/Users/Kim/Documents/NetBeansProjects/PlayersApp/web/add.jsp</file>
+            <file>file:/C:/Users/Kim/Documents/NetBeansProjects/PlayersApp/src/java/controller/UpdateServlet.java</file>
+            <file>file:/C:/Users/Kim/Documents/NetBeansProjects/PlayersApp/src/java/controller/DeleteServlet.java</file>
+            <file>file:/C:/Users/Kim/Documents/NetBeansProjects/PlayersApp/src/java/dbHelper/AddQuery.java</file>
+            <file>file:/C:/Users/Kim/Documents/NetBeansProjects/PlayersApp/web/index.jsp</file>
+            <file>file:/C:/Users/Kim/Documents/NetBeansProjects/PlayersApp/src/java/controller/SearchServlet.java</file>
+            <file>file:/C:/Users/Kim/Documents/NetBeansProjects/PlayersApp/web/updateForm.jsp</file>
+            <file>file:/C:/Users/Kim/Documents/NetBeansProjects/PlayersApp/web/read.jsp</file>
+            <file>file:/C:/Users/Kim/Documents/NetBeansProjects/PlayersApp/web/style.css</file>
+            <file>file:/C:/Users/Kim/Documents/NetBeansProjects/PlayersApp/src/java/controller/UpdateFormServlet.java</file>
+            <file>file:/C:/Users/Kim/Documents/NetBeansProjects/PlayersApp/src/java/controller/AddServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
